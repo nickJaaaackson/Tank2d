@@ -230,6 +230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TankPlayer
   ShowTopMostFoldoutHeaderGroup: 1
   virtualCamera: {fileID: 3067524058169367164}
+  crosshair: {fileID: 2800000, guid: 0a07aa6c8e0036a4e986443af5afbbd3, type: 3}
   <Health>k__BackingField: {fileID: 1391548113990801869}
   <Wallet>k__BackingField: {fileID: 4969053375532480068}
   ownerPriority: 15
